@@ -26,14 +26,16 @@ h1 {
   margin-bottom: 20px;
 }
 
+.italique {
+  font-style: italic;  
+} 
+
 #phrase {
   font-size: 1.5rem;
   margin-bottom: 20px;
 }
 
-.italique {
-  font-style: italic;  
-}    
+   
 
 .options button {
   background-color: #4CAF50;
