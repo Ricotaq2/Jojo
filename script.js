@@ -20,6 +20,11 @@ const questions = [
  {phrase: ".. Qu'ailleurs ils aillent se faire pendre ..",options: ["Pour Exister", "Le pénitencier", "Requiem pour un fou"],correctAnswer: "Requiem pour un fou"},
  {phrase: ".. Et que tu deviens chienne ..",options: ["Que Je T'aime", "Quand Un Homme Devient Fou", "Sally"],correctAnswer: "Que Je T'aime"},
  {phrase: ".. J'ai pas toujours trouvé les mots pour bercer tes rêves d'enfants ..",options: ["Sans une larme", "S'il n'est pas trop tard", "Sang pour sang"],correctAnswer: "Sang pour sang"},
+ {phrase: ".. Pour que j’aime le silence qu’on me fasse des discours..",options: ["Je serai là", "Je ne suis qu'un homme", "l'envie"],correctAnswer: "l'envie"},
+ {phrase: ".. J'y crois comme un enfant, comme on peut croire au ciel..",options: ["Je te promets", "Laisse-moi une chance", "Je suis seul"],correctAnswer: "Je te promets"},
+ {phrase: ".. les femmes qui pleurent leurs enfants mais restent dignes ..",options: ["Voici le monde", "Un rêve à faire", "Vivre pour le meilleur"],correctAnswer: "Vivre pour le meilleur"},
+ {phrase: ".. Empêche-moi de me détruire donne-moi, donne-moi ton corps ..",options: ["Chanter pour toi", "Derrière l'amour", "Cette fille-là"],correctAnswer: "Derrière l'amour"},
+ {phrase: ".. Et quand la troupe défile sous leurs carreaux ils ont l'âme guerrière..",options: ["Flagrant délit", "Il faut rouler", "Fils de personne"],correctAnswer: "Fils de personne"},
 
    
 ];
